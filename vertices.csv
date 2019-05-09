@@ -1,0 +1,90 @@
+from,type,pasture,barn
+828534847,arena,place,
+1375110634,barn,place,
+722225259,barn,place,
+805113191,barn,place,
+992606538,barn,place,
+265442043,barn,place,
+2056522415,barn,place,
+2044461369,barn,place,
+1111499302,barn,place,
+1465819709,barn,place,
+1972115615,barn,place,
+671574015,barn,place,
+2098451489,barn,place,
+496615740,barn,place,
+270735755,barn,place,
+1445225314,barn,place,
+1744054166,barn,place,
+2042092649,barn,place,
+1898642600,barn,place,
+1851286936,feed room,place,
+1430506477,grooming stall,place,
+313450190,grooming stall,place,
+1316102244,horse,1,pasture 2
+195941619,horse,3,main
+333175041,horse,9,lower
+342847286,horse,7,main
+345466931,horse,16,lower
+553349318,horse,4,lower
+646922510,horse,15,main
+829200824,horse,9,lower
+1091682207,horse,8,main
+1212892288,horse,5,pasture 1
+1239571429,horse,14,isolation
+1343237680,horse,13,main
+1424241655,horse,7,main
+1468909813,horse,2,main
+1494434346,horse,12,main
+1506301109,horse,9,lower
+1534063990,horse,9,lower
+1558837466,horse,10,main
+1585850597,horse,2,main
+1620846910,horse,5,pasture 1
+1623750070,horse,4,lower
+1665081654,horse,6,lower
+1725635615,horse,4,lower
+1764017416,horse,12,main
+1768805330,horse,11,lower
+1838426739,horse,5,pasture 1
+2036048124,horse,6,lower
+2104873054,horse,4,lower
+408433646,pasture,pasture,
+1932226176,pasture,pasture,
+1873234880,pasture,pasture,
+243719136,pasture,pasture,
+2072496780,pasture,pasture,
+2087257363,pasture,pasture,
+1730609357,pasture,pasture,
+1313750791,pasture,pasture,
+615535993,pasture,pasture,
+752727656,pasture,pasture,
+401107636,pasture,pasture,
+1697801431,pasture,pasture,
+89206427,pasture,pasture,
+624770874,pasture,pasture,
+1260588087,pasture,pasture,
+429792557,pasture,pasture,
+1852043824,pasture,pasture,
+1870172004,pasture,pasture,
+1697503993,pasture,pasture,
+649072229,pasture,pasture,
+1243785496,person,person,person
+637435742,person,person,person
+717844050,person,person,person
+2025699847,person,person,person
+1270289144,person,person,person
+1519644322,person,person,person
+463397903,person,person,person
+7957504,person,person,person
+554892047,person,person,person
+508414954,person,person,person
+828589940,person,person,person
+1441110689,sandpit,place,
+1498399530,static,static,
+98735408,tack room,place,
+778544259,tack room,place,
+506010211,tack room,place,
+978193060,wash stall,place,
+1270878398,wash stall,place,
+1889314729,wash stall,place,
